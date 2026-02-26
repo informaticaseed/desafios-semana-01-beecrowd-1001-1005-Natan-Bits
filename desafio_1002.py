@@ -18,3 +18,5 @@ exemplo abaixo, com 4 casas após o ponto decimal. Utilize variáveis de dupla p
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1002
 
 # Escreva sua solução abaixo
+r=float(input())**2*3.14159
+print(f'A={r:.4f}')
