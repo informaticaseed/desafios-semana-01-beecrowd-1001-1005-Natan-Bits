@@ -15,3 +15,6 @@ de A e B.
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1003
 
 # Escreva sua solução abaixo
+A,B=int(input()), int(input())
+SOMA=A+B
+print(f'SOMA = {SOMA}')
