@@ -15,3 +15,6 @@ caso contrário seu programa apresentará a mensagem: "Presentation Error".
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1004
 
 # Escreva sua solução abaixo
+A,B=int(input()), int(input())
+PROD=A*B
+print(f'PROD = {PROD}')
