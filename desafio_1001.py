@@ -13,4 +13,5 @@ você receberá "Presentation Error".
 
 # Escreva sua solução abaixo
 A,B=int(input()), int(input())
-print(A+B)
+X=A+B
+print(X)
